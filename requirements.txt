@@ -1,0 +1,5 @@
+flask
+# Please install npm v6.14.5 and node v14.4.0 (Use nvm for installation) https://www.freecodecamp.org/news/how-to-install-node-js-on-ubuntu-and-update-npm-to-the-latest-version/
+transformers==3.0.2
+torch==1.7.0
+torchvision==0.8.1
