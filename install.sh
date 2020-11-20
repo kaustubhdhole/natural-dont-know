@@ -4,4 +4,4 @@ cd client
 npm install
 npm run build
 cd ..
-pip install -r requirements.txt
+pip3 install -r requirements.txt

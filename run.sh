@@ -1,1 +1,1 @@
-python server/flask_app.py
+python server/main.py
