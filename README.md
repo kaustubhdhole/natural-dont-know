@@ -4,7 +4,9 @@ Contains code for the following paper:
 
 > Ashish Shrivastava, Kaustubh D. Dhole, Abhinav Bhatt, Sharvani Raghunath, 2020 _[Saying No is An Art: Contextualized Fallback Responses for Unanswerable Dialogue Queries](https://arxiv.org/pdf/2012.01873.pdf)_
 
-![Alt text](dontknow.png?raw=true "Title")
+<p align="center">
+<img src="https://github.com/kaustubhdhole/natural-dont-know/blob/main/dontknow.png" width="150" height="90">
+</p>
 
 This repository contains code for calling the Natural Don't Know Response Service using a HuggingFace model as well as a front-end interface.
 
