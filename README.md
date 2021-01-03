@@ -1,4 +1,4 @@
-**Natural Don't Know: Saying No is An Art**
+##Natural Don't Know: Saying No is An Art
 
 Contains code for the following paper:
 
@@ -48,3 +48,15 @@ http://127.0.0.1:5000/
 ![Alt text](front-end.png?raw=true "Title")
 
 The front-end code has been taken from [James Gung's VerbNet Parser repository](https://github.com/jgung/verbnet-parser).
+
+#### Citations
+
+* [Saying No is An Art: Contextualized Fallback Responses for Unanswerable Dialogue Queries](https://arxiv.org/abs/2012.01873)
+```bibtext
+@article{shrivastava2020saying,
+  title={Saying No is An Art: Contextualized Fallback Responses for Unanswerable Dialogue Queries},
+  author={Shrivastava, Ashish and Dhole, Kaustubh and Bhatt, Abhinav and Raghunath, Sharvani},
+  journal={arXiv preprint arXiv:2012.01873},
+  year={2020}
+}
+```
