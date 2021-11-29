@@ -2,7 +2,7 @@
 
 Contains code for the following paper:
 
-> Ashish Shrivastava, Kaustubh D. Dhole, Abhinav Bhatt, Sharvani Raghunath, 2020 _[Saying No is An Art: Contextualized Fallback Responses for Unanswerable Dialogue Queries](https://aclanthology.org/2021.acl-short.13.pdf)_
+> _[Saying No is An Art: Contextualized Fallback Responses for Unanswerable Dialogue Queries](https://aclanthology.org/2021.acl-short.13.pdf)_ Ashish Shrivastava, Kaustubh D. Dhole, Abhinav Bhatt, Sharvani Raghunath, 2021
 
 <p align="center">
 <img src="https://github.com/kaustubhdhole/natural-dont-know/blob/main/dontknow.png" width="150" height="90">
